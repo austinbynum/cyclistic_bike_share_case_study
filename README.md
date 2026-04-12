@@ -8,6 +8,7 @@ This project serves as a comprehensive case study on how **Annual Members** and 
 * **Pandas & NumPy:** Data cleaning and statistical aggregation.
 * **Matplotlib & Seaborn:** Data visualization of usage trends.
 * **Jupyter Notebook:** End-to-end documentation of the data analysis process.
+* **Tableau:** Advanced and interactive visualizations.
 
 ## 📂 Repository Structure
 * `02_processed_data/`: Summarized CSV files used for final reporting.
@@ -17,7 +18,7 @@ This project serves as a comprehensive case study on how **Annual Members** and 
 
 ## 📊 Data & Methodology
 The dataset includes approximately **4.2 million records**. Due to size constraints, raw data is not hosted on GitHub.
-* **[Official Source](https://divvy-tripdata.s3.amazonaws.com/index.html):** You can download the data from the original source.
+* **[Official Source](https://divvy-tripdata.s3.amazonaws.com/index.html):** You can download the data from the original source in compliance with [their license](https://divvybikes.com/data-license-agreement)
 * **[Zipped Raw Data](https://drive.google.com/file/d/1cDsWQQZ9oKfTgZj8xkFndKC6wJ7gGUWp/view?usp=drive_link):** You can download a zip file of the specific raw CSVs used in this analysis from my Google Drive.
 
 ### Key Processing Steps:
