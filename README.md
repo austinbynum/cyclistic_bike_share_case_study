@@ -1,6 +1,6 @@
 # Cyclistic Bike-Share: Behavioral Analysis & Membership Conversion Strategy
 
-## 🚲 Project Overview
+## 📝 Project Overview
 This project serves as a comprehensive data analysis case study exploring the behavioral differences between **Annual Members** and **Casual Riders** utilizing Cyclistic's bike-sharing network. I processed and analyzed 15 months of historical trip data (Q1 2019 - Q1 2020) to uncover actionable usage trends. 
 
 ## 🎯 Business Task
